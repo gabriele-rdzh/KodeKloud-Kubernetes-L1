@@ -60,7 +60,7 @@ kubectl get pods
 # Output
 No resources found in default namespace.
 ```
-As we can see, there's nothing ther so...
+As we can see, there's nothing there, so...
 
 *One Eternity Later*
 ```bash
